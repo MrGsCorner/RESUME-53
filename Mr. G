@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en>
+<head>
+       <meta charset="UTF-8">
+       <title>Resume</title>
+       <link rel="stylesheet" type="text/css" href="Resume.css">
+       <title>This website uses external CSS</title>
+</head>
+<body>
+<div class="header">
+Welcome To My Website!
+</div>
+</body>
+</html>
+    <table width="900px" height="1000px" align="center" bgcolar="#CCd1d1>
+        <tr>
+            <td>
+                <table align="center">
+                  <tr>
+            <td width="200px" height=750" style="padding-left:10px" bgcolor="FDEFE">
+                <hr size="40px" color="34495E">
+                <h1>Daniel <br> Gallegos </h1>
+                <center><img src="https://i.postimg.cc/GtJQ44bN/IMG-2496.jpg" style="border-radius:50%" alt=""></center>
+                <h3>Contacts</h3>
+                <hr>
+                <h5>Email Adress:</h5>
+                <p><a href="mailto:dcg004@uark.edu">click to email</a>
+                </p>  
+                <h5>Work Webpage:</h5>
+                <p><a href="https://www.magnetcove.k12.ar.us/125330_2">click to website</a>
+            </td>
+            <td width="450px" height=750" style="padding-left:10px" bgcolor="FDEFE">
+            <h1>My Resume</h1>
+
+            <h2>Family Life:</h2>
+            <hr>
+             <p>My wife and I celebrated our 30th anniversary on August 15, 2022. We have two daughters (a 26-year-old & 18-year-old).
+                Four dogs named Buster Brown, Ellie Mae, Izzy Pop, and Motley Crue, and three cats named Circuit, Bella, 
+                and Orange Kitty, 19 years old. We also welcomed a grandson into the family on August 29, 2020! He will be two years old soon. 
+                He is currently the center of the universe!</p> 
+                <h2>Education:</h2> 
+                <hr>
+                <table>
+                  <tr>
+                     <td width="450px">
+                     <ul>
+                     <li> I graduated from the University of Arkansas at Monticello in May 2013 with a Bachelor of Arts in P-4 Education..  </li>
+                     <li> I graduated from Arkansas State University on December 18, 2021, with an MSE in Reading. </li>
+                     <li> Working on my K-12 Online Teaching Program Certification through the University of Arkansas.</li>
+                     </td>
+                  </tr>
+                </table>
+                <h3>Experience:</h3>
+                <hr>
+                <p>I am working towards my 7th year of teaching at Magnet Cove Elementary.  I am currently teaching literacy, math, science, and social studies. I spent a year at Drew Central as a student-teacher. After graduating from UAM, I went to work for 
+                   Eastside Elementary in Warren, AR. This is my seventh year at Magnet Cove, and I look forward to many more! I have also 
+                   completed my Master’s of Science in Reading in Education. I am now working towards getting CALT certification, and I should finish it by the end of the school year. I am currently finishing up the course work to get k-12 Online Teaching Certification through a scholarship I was awarded from the University of Arkansas..</p> 
+                <h3>Future Educational Goals</h3>
+                <p>As mentioned before, I am working towards my K -12 Online Teaching Certification, and I will complete the assessment portion by the end of the summer. I also plan on taking the CALT Examine and my Praxis II Reading Specialists Examine over the summer. Once completed, I will be licensed in dyslexia intervention in Arkansas and throughout the United States. In the future, I plan on pursuing my EDs in Reading. 
+                </p>    
+                 <hr size="40px" color="34495E">
+            </td>
+        </tr>
+    </table>
+</body>
+</html>   
